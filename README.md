@@ -38,3 +38,4 @@ If you'd like, tell me:
 
 I can write a version that looks even more professional or creative! 🚀
 
+this project off line works
